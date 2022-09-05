@@ -34,4 +34,4 @@ termcolor
 # website
 streamlit
 Pillow
-opencv-python
+opencv-python-headless
