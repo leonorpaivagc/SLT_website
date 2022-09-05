@@ -33,5 +33,5 @@ termcolor
 
 # website
 streamlit
-PIL
+Pillow
 opencv-python
