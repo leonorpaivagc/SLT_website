@@ -4,7 +4,7 @@ from PIL import Image
 
 #Display logo on the left and titleon the right
 col1, col2 = st.columns([1, 6])
-medical_image = Image.open('./medical symbol.png')
+medical_image = Image.open('medical__symbol.png')
 with col1:
     st.image(medical_image, width=100)
 with col2:
